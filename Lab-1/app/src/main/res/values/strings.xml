@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Laboratorul-1</string>
+    <string name="weight_label">Input your weight:</string>
+    <string name="weight_input">kg</string>
+    <string name="height_label">Input your height:</string>
+    <string name="height_input">cm</string>
+    <string name="bmi_text">Your BMI:</string>
+    <string name="show_results">Calculate</string>
+    <string name="reset">Reset</string>
+    <string name="bmi_result_text"></string>
+</resources>
