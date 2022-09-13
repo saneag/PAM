@@ -8,4 +8,7 @@
     <string name="show_results">Calculate</string>
     <string name="reset">Reset</string>
     <string name="bmi_result_text"></string>
+    <string name="error_text_height"></string>
+    <string name="error_text_weight"></string>
+    <string name="bmi_category"></string>
 </resources>
