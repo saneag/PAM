@@ -107,9 +107,6 @@ class MyCustomFormState extends State<MyCustomForm> {
             child: ElevatedButton(
               onPressed: () {
                 if (_formKey.currentState!.validate()) {
-                  ScaffoldMessenger.of(context).showSnackBar(
-                    const SnackBar(content: Text('Processing Data')),
-                  );
                   setState(() {
                     bmi = (weight / pow((height / 100), 2)).toStringAsFixed(2);
                   });
